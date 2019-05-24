@@ -42,7 +42,7 @@ namespace Courseres
                 else
                 {
                     reservation.UpdateDates(checkIn, checkOut);
-                    Console.WriteLine("Reservation: "+ reservation);
+                    Console.WriteLine("Reservations: "+ reservation);
                 }
 
             }
